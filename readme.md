@@ -1,0 +1,1 @@
+estos estilos seran ejecutados con sass,esto tiene un head con un boton que dice carrito y tiene un logo y tiene 8 cards de compra con un efecto hever acomodadas con grid
